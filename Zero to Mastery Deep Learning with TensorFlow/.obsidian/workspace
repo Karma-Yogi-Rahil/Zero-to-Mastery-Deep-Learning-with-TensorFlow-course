@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Machine learning.md",
+            "file": "🦾 Machine learning.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine learning.md",
+                "file": "🦾 Machine learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,7 @@
   },
   "active": "88ccebe0a3230599",
   "lastOpenFiles": [
-    "Machine learning.md",
+    "🦾 Machine learning.md",
     "Deep Learning Intro.md",
     "Artificial neural network.md",
     "Untitled.md"
