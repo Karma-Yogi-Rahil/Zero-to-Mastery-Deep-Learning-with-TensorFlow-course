@@ -13,3 +13,6 @@ A type of [[🖥 Machine Learning]] based on [[Artificial neural network]] in wh
 __Good reason :__ **~~Why not ?~~**
 
 __Better reason :__ for a complex problem, we need think to think all the possible rules which is not possible. 
+
+A wise software engineer... (actually rule 1 of Google's Machine Learning Handbook ) said 
+> if you can build a ==_simple rule based_== system that doesn’t require machine learning, do that .
