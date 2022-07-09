@@ -4,4 +4,4 @@ A type of [[Machine learning]] based on [[Artificial neural network]] in which m
 -  Deep learning is sub-field of machine learning that uses algorithms inspired by the structure and function if the brain's neural networks.
 - As a sub field of ML, DL also uses algorithms to analyse data, learn from that data , and then make a determination or perdition about new data
 
-dsfa
+
