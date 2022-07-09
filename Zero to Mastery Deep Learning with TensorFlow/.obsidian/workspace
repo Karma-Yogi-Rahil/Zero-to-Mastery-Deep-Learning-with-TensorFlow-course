@@ -11,6 +11,18 @@
           "state": {
             "file": "💭 Deep Learning Intro.md",
             "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "2f82b0e17d1ffc17",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "💭 Deep Learning Intro.md",
+            "mode": "source",
             "source": false
           }
         }
