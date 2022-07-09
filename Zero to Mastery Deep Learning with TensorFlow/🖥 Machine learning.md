@@ -10,7 +10,7 @@ The algorithm may first look a a particular word associated with either negative
 with condition statements the algorithm would classify articles as positive or negative based on the words that it knows as positive or negative | with what it's learned , the algorithm could then classify new articles as positive or negative
 
 #### The three overarching categories of machine learning
-- [[Supervised Learning]]
+- [[👨🏼‍🏫 Supervised Learning]]
 - [[Unsupervised Learning]]
 - [[Reinforcement Learning]]
 
