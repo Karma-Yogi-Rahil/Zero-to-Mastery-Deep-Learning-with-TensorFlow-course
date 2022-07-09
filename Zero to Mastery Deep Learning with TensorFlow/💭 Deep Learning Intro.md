@@ -10,6 +10,6 @@ A type of [[🖥 Machine Learning]] based on [[Artificial neural network]] in wh
 
 # Why use [[🖥 Machine Learning]] (or Deep learning )
 
-Good reason : Why not ?
+__Good reason :__ **~~Why not ?~~**
 
-
+__Better reason :__ for a complex problem, we need think to think all the possible rules which is not possible. 

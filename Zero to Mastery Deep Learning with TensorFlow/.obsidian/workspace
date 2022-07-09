@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "💭 Deep Learning Intro.md",
+            "file": "Supervised Learning.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "💭 Deep Learning Intro.md",
+                "file": "Supervised Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,10 +89,10 @@
   },
   "active": "88ccebe0a3230599",
   "lastOpenFiles": [
+    "Supervised Learning.md",
     "💭 Deep Learning Intro.md",
     "Machine Learning.md",
     "🖥 Machine Learning.md",
-    "Supervised Learning.md",
     "Artificial neural network.md",
     "Untitled.md"
   ]
